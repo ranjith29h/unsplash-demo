@@ -1,0 +1,12 @@
+.image__gallery .card-body {
+  padding: 3% !important;
+}
+.likes {
+  margin-bottom: 0 !important;
+}
+.likes .fa-heart {
+  color: red;
+}
+.like__title {
+  font-weight: bold;
+}

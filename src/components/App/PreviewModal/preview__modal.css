@@ -1,0 +1,11 @@
+.likes__holder,
+.views__holder,
+.download__holder {
+  font-weight: bold;
+}
+.likes__holder .fa-heart {
+  color: red;
+}
+.download__holder .fa-download {
+  color: blue;
+}

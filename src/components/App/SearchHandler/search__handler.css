@@ -1,0 +1,6 @@
+.search__handler {
+  border-bottom: 1px solid #f2f2f2;
+}
+.search__input {
+  border: 1px solid black !important;
+}
