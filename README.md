@@ -4,3 +4,10 @@
 2) Bootstrap and reactstrap
 3) Fontawesome
 
+## Clone
+```js
+git clone https://github.com/ranjith29h/unsplash-demo.git
+cd unsplash-demo
+npm install
+npm start
+```
